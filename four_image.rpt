@@ -1,0 +1,12 @@
+**** Efinity Programming Tool Generation Report *****
+Time: 2026-11-04 05:48
+
+Generated Multi Image output file: D:\qiansai\sixxx\outflow\four_image.hex
+Device: Ti60F225
+Image type: internal
+CBSEL[1:0]  Flash Address  Length      Input Image File
+     2'b00  0x00000000     0x000d1b22  D:\qiansai\sixxx\image\outflow\ti60f225_oob.hex
+     2'b01  0x000d2000     0x000f2117  D:\qiansai\sixxx\DDR3\outflow\ti60f225_oob.hex
+     2'b10  0x001c5000     0x000f702c  D:\qiansai\sixxx\6_1_shape\outflow\ti60f225_oob.hex
+     2'b11  0x002bd000     0x000dfde1  D:\qiansai\sixxx\6_1_number2\outflow\ti60f225_oob.hex
+
